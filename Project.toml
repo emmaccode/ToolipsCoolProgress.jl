@@ -1,0 +1,8 @@
+name = "ToolipsCoolProgress"
+uuid = "a786100d-e7f2-4abd-8d03-314afd3bbb99"
+authors = ["emmac <emmacboudreau@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Toolips = "a47e2ad8-fcf7-417c-9746-32b9bdf220bd"
+ToolipsSVG = "8ae86ec9-919d-4ece-9a6d-09b7d28dae11"
