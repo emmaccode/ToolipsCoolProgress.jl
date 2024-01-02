@@ -2,7 +2,7 @@
 
 julia_version = "1.9.2"
 manifest_format = "2.0"
-project_hash = "bfbfb041dd94b469d20d4ab9385a3319a7e127d4"
+project_hash = "00d712f4690d824954984c3c2cac57b6e51fc379"
 
 [[deps.ArgTools]]
 uuid = "0dad84c5-d112-42e6-8d28-ef12dabb789f"
@@ -205,6 +205,12 @@ deps = ["Toolips"]
 git-tree-sha1 = "bd84c83d033787034dda3d3428d7dc55e8f03b01"
 uuid = "8ae86ec9-919d-4ece-9a6d-09b7d28dae11"
 version = "0.1.0"
+
+[[deps.ToolipsSession]]
+deps = ["Dates", "ParseNotEval", "Random", "Toolips"]
+git-tree-sha1 = "5c0533fc0894aa0c5f682ca809a0c54671433975"
+uuid = "2fe55384-55bc-4df3-9d59-c817d405cd05"
+version = "0.3.6"
 
 [[deps.TranscodingStreams]]
 git-tree-sha1 = "1fbeaaca45801b4ba17c251dd8603ef24801dd84"
